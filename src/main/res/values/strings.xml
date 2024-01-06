@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">LatihanAPP8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav">Tab Experiment</string>
+    <string name="comedy">Comedy</string>
+    <string name="romance">Romance</string>
+    <string name="action">Action</string>
+    <string name="isi_fragment1">Ini fragment 1</string>
+    <string name="isi_fragment2">Ini fragment 2</string>
+    <string name="isi_fragment3">Ini fragment 3</string>
+    <string name="spy">spy x family</string>
+    <string name="kobayashi">Miss Kobayashis Dragon Maid</string>
+    <string name="doraemon">Doraemon stand by me</string>
+    <string name="suzume">suzume</string>
+    <string name="tenkinoko">tenki no ko</string>
+    <string name="kotonoha">Kotonoha no Niwa</string>
+    <string name="rimuru">Tensura</string>
+    <string name="naruto">Naruto </string>
+    <string name="onepiece">One Piece Film: Red</string>
+    <string name="sinopsis_spy">
+        Spy X Family mengisahkan seorang agen mata-mata terbaik Westalis dengan kode Twilight (Senja/Tasogare). Ia digambarkan dengan wajah tampan, namun memiliki kemampuan berubah-ubah wajah dengan menggunakan topeng.
+Twilight kini tengah menjalankan operasi Strix, misi tingkat S untuk memata-matai wilayah Ostania yang dipimpin Donovan Desmond. Untuk keberhasilan misi tersebut, Twilight menyamar sebagai seorang dokter psikologi bernama Loid Forger.
+Tidak hanya itu, Loid juga membentuk keluarga palsu dengan Anya sebagai anak dan Yor Brian sebagai ibu. Namun, tanpa diketahui Loid, keluarganya memiliki kemampuan luar biasa.
+Pertama, Anya adalah seorang esper yang mampu membaca pikiran orang lain. Kedua, Yor Brian selaku istri merupakan pembunuh bayaran yang terkenal dalam keberhasilan dalam menuntaskan misinya.
+Spy X Family Season 2 akan menampilkan Loid Forger yang mendapatkan celah untuk mendekati Donovan Desmond. Namun, Loid justru bingung dengan karakter Donovan Desmod yang sulit untuk ditebak.
+Di sisi lain, Loid akan mulai menjalani kencan dengan Yor Brian.
+Hal ini dilakukan Loid untuk meningkatkan hubungan mereka, terlebih mewujudkan keberhasilan Operasi Strix. Akan tetapi, beberapa permasalahan mulai muncul dalam mengendus keberadaan para agen mata-mata Westalis di Ostania.
+Terbukti salah satu informan agen Westalis tewas terbunuh. Dirumorkan kasus tersebut dilakukan organisasi pembunuh Ostania yang mulai melancarkan aksi.
+    </string>
+    <string name="sinopsis_kobayashi">
+       Seorang wanita pekerja kantoran bernama Kobayashi menjalani hidup yang membosankan. Dia tinggal sendirian di apartemen kecil dan kehidupan yang membosankannya mulai berubah ketika dia menyelamatkan seekor naga betina yang kesusahan.
+Naga itu bernama Tooru, dia memiliki kemampuan magis yang bisa berubah wujud menjadi seorang gadis yang menggemaskan. Sebagai balas budinya, Tooru bekerja sebagai pelayan pribadi Kobayashi. Namun, baik Kobayashi tidak pernah membayangkan akan menghadapi situasi ‘gila’ setelah kehadiran Tooru.
+    </string>
+    <string name="sinopsis_doraemon">
+    Bermula dengan kedatangan Sewashi, cucu Nobita yang mendatanginya rumahnya dari abad 22 bersama Doraemon. Doraemon diberikan misi oleh Sewashi untuk membantu Nobita menemukan kebahagiaan sekaligus memperbaiki masa depannya.
+
+Mau tak mau harus Doraemon lakukan karena ia tidak akan bisa kembali ke masa depan sebelum misinya tersebut berhasil. Setiap hari Doraemon selalu membantu kesulitan Nobita dengan benda-benda dari dalam kantong ajaibnya. Ia memperkenalkan baling-baling bambu yang bisa membuat Nobita terbang di udara.
+
+Pintu kemana saja yang membuat Nobita lebih cepat sampai tujuan ke mana saja yang ia mau bahkan tidak pernah terlambat sekolah. Jubah penghilang yang membuat Nobita bisa menjahili Giant dan Suneo.
+
+Suati hari, mereka melihat masa depan Nobita. Foto masa depan Nobita memperlihatkan bahwa ia akan menikah dengan Shizuka. Hal ini tentu saja membuat Nobita sangat bahagia. Namun, di sisi lain Doraemon merasa sedih karena artinya tugasnya sudah selesai dan ia harus segera pulang ke masa depan.</string>
+    <string name="sinopsis_suzume">
+Perjalanan Suzume dimulai di sebuah kota yang tenang di Kyushu (terletak di Barat daya Jepang) ketika dia bertemu dengan seorang pria muda yang mengatakan kepadanya, "Saya sedang mencari pintu." Apa yang Suzume temukan adalah satu pintu lapuk yang berdiri tegak di tengah reruntuhan seolah terlindung dari malapetaka apa pun yang melanda. Tampaknya ditarik oleh kekuatannya, Suzume meraih kenopnya... Pintu-pintu itu mulai terbuka satu demi satu di seluruh Jepang, melepaskan kehancuran pada siapa pun yang berada di dekatnya. Suzume harus menutup portal ini untuk mencegah bencana lebih lanjut.
+    </string>
+    <string name="sinopsis_tenkinoko">
+seorang anak muda dari desa terpencil di Shikoku, yang meninggalkan rumah dan memutuskan untuk tinggal di Tokyo. Dalam perjalanannya, dia bertemu dengan Keisuke, seorang pria aneh yang menawarkan bantuan kepadanya. Merasa aneh dengan orang tersebut, Hodoka memutuskan untuk mencoba mencari peruntungan yang lain. Namun dia menghadapi kesulitan yang datang silih berganti dalam perjalannya. Setelah beberapa kali tidur di jalanan karena tidak ada orang lain yang bias dihubungi, Hodoka memutuskan untuk menghubungi Keisuke. Hodoka mendapatkan tawaran bekerja sebagai penulis majalah lokal milik Keisuke yang membahas supernatural dan hal hal aneh. Selama di Tokyo, Hodoka selalu diikuti cuaca aneh dimana hujan turun tiada henti. Saat menulis sebuah cerita, dia mendengar kisah pengendalian cuaca. Dia berusaha mencari kebenaran dari legenda urban di mana ada seorang gadis muda yang memiliki kekuatan untuk menghentikan hujan dan membuat langit menjadi cerah kembali. Pencariannya ini membuatnya bertemu dengan Hina Amano, seorang gadis yang memiliki kekuatan luar biasa yang dapat mengendalikan cuaca.
+    </string>
+    <string name="sinopsis_kotonoha">
+Film ini berkisah tentang seorang siswa SMA bernama Takao Akizuki. Ia kerap membolos sekolah saat hujan turun di pagi hari dan sebagai gantinya, ia akan duduk-duduk sembari menggambar di saung yang berada di sebuah taman. Takao bercita-cita menjadi seorang pembuat sepatu dan ia selalu asyik menggambar sketsa sepatu di saung tersebut. Suatu hari, saat ia kembali menyambangi taman untuk menggambar desain sepatu, ia bertemu dengan seorang wanita. Mereka berbagi tempat duduk di saung itu. Takao tertarik kepada sepatu yang dikenakan oleh wanita itu dan diam-diam menggambarnya. Walau ia merasa pernah bertemu dengan wanita itu, nyatanya wanita itu sendiri meyakinkan bahwa mereka belum pernah bertemu. Namun, ketika wanita itu melirik lambang sekolah di dada Takao, ia tiba-tiba melantunkan sebuah puisi Jepang dan lantas berlalu. Sejak saat itu, Takao selalu bertemu dengan wanita misterius itu setiap kali ia pergi ke taman kala hujan turun. Perlahan, mereka mulai saling bicara dan sama seperti Takao yang bolos sekolah jika turun hujan di pagi hari, wanita itu juga mengaku bahwa ia sedang bolos kerja. Bahkan, sebelum Takao beranjak, wanita itu berkata bahwa mereka pasti akan bertemu kembali. Hubungan Takao dan wanita itu semakin akrab. Mereka bicara banyak hal dan bertukar bekal makanan yang mereka buat sendiri. Walau begitu, Takao tak pernah menyadari, bahwa wanita itu sebenarnya bukanlah benar-benar orang asing baginya. Kenyataannya, wanita itu menyimpan rahasia kisah menyedihkan yang membuatnya selalu pergi ke taman itu.
+    </string>
+    <string name="sinopsis_rimuru">
+Kerajaan Raja yang terletak di sebelah barat Tempest dulunya dikenal sebagai negara yang makmur berkat penambangan emasnya. Namun kini, negara tersebut dilanda krisis akibat danau yang tercemar racun dari tambang. Ratu Kerajaan Raja, Towa, menggunakan kekuatan magis yang berasal dari tiara milik keluarga kerajaan untuk menetralkan racun tersebut serta melindungi rakyatnya. Sebagai akibatnya, beliau mendapat kutukan dari tiara tersebut, membuatnya semain hari semakin melemah. Sementara itu, seorang Ogre bernama Hiiro tiba-tiba muncul di Tempest. Hiiro, yang sudah dianggap sebagai kakak oleh Benimaru, dulunya pernah diselamatkan oleh Towa. Untuk melindungi Towa serta Kerajaan Raja, Hiiro memutuskan untuk meminta bantuan Rimuru dan secara tak terduga, dia bertemu Benimaru di sana. Untuk menyelamatkan Kerajaan Raja dari krisisi tersebut dan memecahkan misteri di balik kutukan miliki Towa, Rimuru dan teman-temannya pergi ke Kerajaan Raja. Namun rupanya, sebuah perseongkolan mengejutkan sudah menanti mereka di sana!
+    </string>
+    <string name="sinopsis_naruto">
+Naruto, Kakashi, Sakura dan Lee dikirim untuk melindungi seorang pangeran ketika ia sedang melakukan perjalanan keliling dunia dan harus kembali dengan selamat di kampung halaman di Negeri Bulan. Negeri Bulan sangat kaya dan sang pangeran selalu mendapatkan apa yang ia mau. Di perjalanan, ia berkunjung ke sebuah sirkus yang didalamnya ada macan yang amat langka dan ia sangat ingin memilikinya. Maka ia beli seluruh grup sirkusnya. Tiba-tiba, misi yang seharusnya melindungi pangeran untuk pulang dengan selamat menjadi misi menjaga para binatang dan membawa mereka semua dengan selamat ke negeri bulan. Belum lagi di perjalanan, mereka dihadang oleh sekawanan ninja.
+    </string>
+    <string name="sinopsis_onepiece">
+menceritakan Luffy, seorang Bajak Laut Topi Jerami yang pergi ke sebuah festival musik. Festival tersebut terletak di Pulau Musik Elegia yang menjadi lokasi konser diva terbesar di dunia bernama Uta.Acara itu akan menjadi awal pertemuan Luffy dengan Uta. Hingga akhirnya terungkap fakta mengejutkan bahwa Uta adalah anak Shanks, sosok kepala bajak laut rambut merah yang menjadi inspirasi Luffy. Fakta itu pun membuat semua orang terkejut karena Shanks menghilang secara misterius.
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
